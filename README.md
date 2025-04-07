@@ -48,6 +48,6 @@ Example 1: <br>
 10.10
 10.00 <br>
 Total estimated Cost: 1847.4 INR <br>
-<b>code : </b> 
+<b>code : </b> https://github.com/sushma879/applications-using-java/blob/main/painting_cost.java
 
 
