@@ -32,5 +32,22 @@ Hour 5: <br>
 Entry : 3 Exit: 4 <br>
 No. of guests on ship: 6+3-4=5 <br>
 Hence, the maximum number of guests within 5 hours is 8. <br>
+<b>problem statement-2 : </b> <br>
+We want to estimate the cost of painting a property. Interior wall painting
+cost is Rs.18 per sq.ft. and exterior wall painting cost is Rs.12 per sq.ft. <br>
+Example 1: <br>
+6
+3
+12.3
+15.2
+12.3
+15.2
+12.3
+15.2
+10.10
+10.10
+10.00 <br>
+Total estimated Cost: 1847.4 INR <br>
+<b>code : </b> 
 
 
