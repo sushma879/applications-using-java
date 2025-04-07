@@ -35,6 +35,14 @@ Hence, the maximum number of guests within 5 hours is 8. <br>
 <b>problem statement-2 : </b> <br>
 We want to estimate the cost of painting a property. Interior wall painting
 cost is Rs.18 per sq.ft. and exterior wall painting cost is Rs.12 per sq.ft. <br>
+Take input as <br>
+1. Number of Interior walls <br>
+2. Number of Exterior walls <br>
+3. Surface Area of each Interior 4. Wall in units of square feet <br>
+Surface Area of each Exterior Wall in units of square feet <br> <br>
+
+If a user enters zero as the number of walls then skip Surface area values as User may don‘t want
+to paint that wall. <br>
 Example 1: <br>
 6
 3
