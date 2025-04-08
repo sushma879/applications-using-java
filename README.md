@@ -63,7 +63,7 @@ reports consist of numbers in a mysterious method. There is a number ―N‖ and
 are summed upand this action is performed  ̳R‘ number of times. The resultant is also a single
 digit that is yet to be deciphered. The task here is to <br>
 If the value of  ̳R‘ is 0, print the output as  ̳0‘. <br>
-<b>code : </b> <br>
+<b>code : </b>https://github.com/sushma879/applications-using-java/blob/main/problem3_solution.java <br>
 <b>Sample input and output : </b> <br>
 Input : <br>
 
