@@ -98,6 +98,6 @@ Explanation: <br>
 Adding  ̳num 1‘ and  ̳num 2‘ right-to-left results in 2 carries since ( 1+9) is 10. 1 is
 carried and(5+4=1) is 10, again 1 is carried. Hence 2 is returned. <br>
 <br>
-<b>Code: </b><br>
+<b>Code:https://github.com/sushma879/applications-using-java/blob/main/Carry.java </b><br>
 
 
