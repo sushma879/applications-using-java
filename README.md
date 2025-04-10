@@ -77,6 +77,27 @@ Explanation: <br>
 Here, the number N=99 <br>
 1. Sum of the digits N: 9+9 = 18 <br>
 2. Repeat step 2  ̳R‘ times i.e. 3 tims (9+9)+(9+9)+(9+9) = 18+18+18 =54 <br>
-3. Add digits of 54 as we need a single digit 5+4Hence , the output is 9. <br>
+3. Add digits of 54 as we need a single digit 5+4Hence , the output is 9.
+<br>
+<b>problem statement -4 </b> <br>
+A carry is a digit that is transferred to left if sum of digits exceeds 9 while adding two numbers from right-to-left one digit at a time <br>
+You are required to implement the following <br>
+function.int NumberOfCarries(int num1 , int num2); <br>
+The functions accepts two numbers  ̳num1‘ and  ̳num2‘ as its arguments. You are required to
+calculate and return the total number of carries generated while adding digits of two numbers
+ ̳num1‘and  ̳ num2‘. <br>
+Assumption: num1, num2>=0 <br>
+Example: <br>
+ Input <br>
+o Num 1: 451 <br>
+o Num 2: 349 <br>
+ Output <br>
+o 2 <br>
+
+Explanation: <br>
+Adding  ̳num 1‘ and  ̳num 2‘ right-to-left results in 2 carries since ( 1+9) is 10. 1 is
+carried and(5+4=1) is 10, again 1 is carried. Hence 2 is returned. <br>
+<br>
+<b>Code: </b><br>
 
 
